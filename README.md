@@ -1,5 +1,5 @@
 # Cyber-Security-project-
-🔒 Password Strength Checker;
+🔒 PASSWORD STRENGTH CHECKER;
 
 A simple Password Strength Checker built with Python and CustomTkinter.
 This project evaluates the strength of a password based on its length, character variety, and complexity.
@@ -7,11 +7,11 @@ It’s a beginner-friendly cybersecurity project that also demonstrates how to b
 
 🚀 Features:
 
-
 ✅ Evaluate password strength: Weak, Medium, Strong
 ✅ GUI built with CustomTkinter
 ✅ Regex-based password validation
 ✅ Show/Hide password option
+
 🛠️ Technologies Used:
 
 Python 3
